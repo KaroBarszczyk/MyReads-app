@@ -3,6 +3,7 @@
 #### This is project is a part of Front-End Web Developer Nanodegree Program by [Udacity](udacity.com) & [Google](google.com).
 ---
 ## About project
+
 In this project, it was created a bookshelf app that allows to select and categorize books to have read, are currently reading, or want to read. 
 The project emphasizes using React to build the application and provides an API server and client library that you will use to persist information as you interact with the application.
 [See original repo](https://github.com/udacity/reactnd-project-myreads-starter)
